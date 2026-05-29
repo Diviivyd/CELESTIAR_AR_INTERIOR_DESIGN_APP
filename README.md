@@ -89,30 +89,6 @@ The workflow includes:
 
 ---
 
-## 📸 Screenshots
-
-### Loading Screen
-
-(Add screenshot here)
-
-### Decor Options
-
-(Add screenshot here)
-
-### Room Selection
-
-(Add screenshot here)
-
-### AR Furniture Placement
-
-(Add screenshot here)
-
-### Suggested Interior Designs
-
-(Add screenshot here)
-
----
-
 ## 📊 Key Learnings
 
 * Understanding of AR application development workflows
@@ -131,18 +107,6 @@ The workflow includes:
 * Multi-user collaborative room designing
 * Markerless AR enhancements
 * Cloud-based design saving system
-
----
-
-## 📁 Project Structure
-
-```text
-CELESTIAR_AR_INTERIOR_DESIGN_APP/
-│
-├── README.md
-├── Project_Report.pdf
-└── screenshots/
-```
 
 ---
 
